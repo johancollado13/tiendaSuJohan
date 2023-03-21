@@ -1,2 +1,9 @@
-Sombreros
- Calzados
+Sombreros
+Calzados
+vestidos
+Maquillaje
+Sombreros
+Joyería
+Carteras
+
+:q
